@@ -1,0 +1,30 @@
+import React from 'react';
+
+export default {
+    A : require('./assets/images/A.png'),
+    B : require('./assets/images/B.png'),
+    C : require('./assets/images/C.png'),
+    D : require('./assets/images/D.png'),
+    E : require('./assets/images/E.png'),
+    F : require('./assets/images/F.png'),
+    G : require('./assets/images/G.png'),
+    H : require('./assets/images/H.png'),
+    I : require('./assets/images/I.png'),
+    J : require('./assets/images/J.png'),
+    K : require('./assets/images/K.png'),
+    L : require('./assets/images/L.png'),
+    M : require('./assets/images/M.png'),
+    N : require('./assets/images/N.png'),
+    O : require('./assets/images/O.png'),
+    P : require('./assets/images/P.png'),
+    Q : require('./assets/images/Q.png'),
+    R : require('./assets/images/R.png'),
+    S : require('./assets/images/S.png'),
+    T : require('./assets/images/T.png'),
+    U : require('./assets/images/U.png'),
+    V : require('./assets/images/V.png'),
+    X : require('./assets/images/X.png'),
+    Y : require('./assets/images/Y.png'),
+    Z : require('./assets/images/Z.png'),
+    W : require('./assets/images/W.png')
+}
